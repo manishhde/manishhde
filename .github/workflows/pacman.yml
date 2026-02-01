@@ -8,9 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Pacman
+      - name: Generate Pacman Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: manishhde
