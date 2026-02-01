@@ -1,2 +1,2 @@
 ## 👾 Pacman Contribution Game
-![Pacman](https://raw.githubusercontent.com/manishhde/manishhde/output/pacman.svg)
+<img src="https://raw.githubusercontent.com/manishhde/manishhde/output/pacman-contribution-graph.svg" width="100%">
