@@ -11,14 +11,17 @@ jobs:
 
     steps:
       - name: Generate Pacman
-        uses: abhishekdhadwal/github-contribution-pacman@main
+        uses: Platane/snk@v3
         with:
           github_user_name: manishhde
+          outputs: |
+            dist/pacman.svg
+          theme: pacman
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
