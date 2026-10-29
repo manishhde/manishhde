@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 🔭 Building cool web projects<br>🍻 Open to creative collaborations<br>🌱 Learning Coding & Web Development<br>💬 Ask me about Film Production<br>⚡ Code. Create. Inspire. 🎬
 
 
